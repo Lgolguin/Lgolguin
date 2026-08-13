@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @Lgolguin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Leonardo Olguin
 
-<!---
-Lgolguin/Lgolguin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Fundador de NOVARIX Software
+
+Desarrollo soluciones digitales enfocadas en resolver problemas reales mediante software.
+
+Actualmente trabajo en proyectos de aplicaciones móviles, desarrollo web y herramientas de automatización.
+
+## NOVARIX Software
+
+**La solución al alcance de un click.**
+
+🌐 Sitio oficial: https://lgolguin.github.io/novarix-web/
+
+---
+
+### Proyectos
+
+📱 **Aplicaciones móviles**  
+🌐 **Desarrollo web**  
+⚙️ **Software y automatización**  
+💡 **Soluciones digitales a medida**
+
+---
+
+*Construyendo, aprendiendo y convirtiendo ideas en productos reales.*
