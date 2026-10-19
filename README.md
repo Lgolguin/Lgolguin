@@ -10,7 +10,7 @@ Actualmente trabajo en proyectos de aplicaciones móviles, desarrollo web y herr
 
 **La solución al alcance de un click.**
 
-🌐 Sitio oficial: https://lgolguin.github.io/novarix-web/
+🌐 Sitio oficial: www.novarix-digital.com
 
 ---
 
